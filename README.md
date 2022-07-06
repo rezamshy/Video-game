@@ -9,7 +9,7 @@ We had to utilize Agile Method for making this game.
 
 
 Team members:
-Arvin ziaie,
-Golshid Shokoofande,
-Ali Amiri,
-Reza Mashayekhi
+Arvin ziaie (Code),
+Reza Mashayekhi (Code),
+Ali Amiri (Art),
+Golshid Shokoofande (Art)
